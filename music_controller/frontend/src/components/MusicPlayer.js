@@ -74,4 +74,8 @@ export default class MusicPlayer extends Component {
       </Card>
     );
   }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes

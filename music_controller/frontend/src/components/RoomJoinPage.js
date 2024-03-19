@@ -76,4 +76,8 @@ export default class RoomJoinPage extends Component {
         console.log(error);
       });
   }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes

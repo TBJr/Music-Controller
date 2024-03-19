@@ -166,4 +166,8 @@ export default class Room extends Component {
       </Grid>
     );
   }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes

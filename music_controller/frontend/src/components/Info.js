@@ -57,4 +57,8 @@ export default function Info(props) {
       </Grid>
     </Grid>
   );
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
